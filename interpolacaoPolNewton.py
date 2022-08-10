@@ -19,7 +19,6 @@ for i in range(0, len(x)):
 dd_coef = dd_mat[0]
 ## FIM BLOCO: Diferencas Divididas
 
-
 ## INICIO BLOCO: Multiplicacao de Binomios + Coeficientes do Polinomio de Newton
 # realiza a multiplicacao de (x-x1)*(x-x2)*(x-x3)... -> fornece lista com os coef
 # a2*x^2 + a1*x + a0 -> resultado: [a2, a1, a0]
